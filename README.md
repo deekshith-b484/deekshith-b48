@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Deekshith</h1>
 <h3 align="center">A Tech ethusiast from India</h3>
 
+![MasterHead](https://www.charpeni.com/static/images/arrow-functions-in-class-properties-might-not-be-as-great-as-we-think/banner.gif)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deekshith-b48&label=Profile%20views&color=0e75b6&style=flat" alt="deekshith-b48" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deekshith-b48" alt="deekshith-b48" /></a> </p>
