@@ -10,7 +10,7 @@
 deekshith-b48/deekshith-b48 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Deekshith, and I'm a tech ethusiast, from India.</h2>
 
 ###
 
